@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Biodata Saya</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            border-radius: 10px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        img {
+            width: 200px;
+            height: auto;
+            border-radius: 10px;
+        }
+        h1 {
+            color: #333;
+        }
+        table {
+            width: 100%;
+            margin-top: 20px;
+        }
+        td {
+            padding: 8px;
+            vertical-align: top;
+        }
+        td.label {
+            font-weight: bold;
+            width: 30%;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Biodata Saya</h1>
+    <img src="https://i.imgur.com/4AiXzf8.jpeg" alt="Foto Profil">
+
+    <table>
+        <tr>
+            <td class="label">Nama</td>
+            <td>: Rihhadatul Aisyah Alhana</td>
+        </tr>
+        <tr>
+            <td class="label">Tempat, Tanggal Lahir</td>
+            <td>: Jember, 4 Mei 2008</td>
+        </tr>
+        <tr>
+            <td class="label">Jenis Kelamin</td>
+            <td>: Perempuan</td>
+        </tr>
+        <tr>
+            <td class="label">Alamat</td>
+            <td>: Jln Pemandian Patemon</td>
+        </tr>
+        <tr>
+            <td class="label">Email</td>
+            <td>: aisyahalhana362@gmail.com </td>
+        </tr>
+        <tr>
+            <td class="label">Telepon</td>
+            <td>: 0853-3383-0878</td>
+        </tr>
+        <tr>
+            <td class="label">Hobi</td>
+            <td>: Main Badminton</td>
+        </tr>
+    </table>
+
+</body>
+</html>
